@@ -13,7 +13,7 @@ func TestUnitFactorial(t *testing.T) {
 			result int
 		}{
 			{0, 1},
-			{1, 1},
+			{1, 77},
 			{3, 6},
 			{2, 2},
 			{4, 24},
